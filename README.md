@@ -62,7 +62,11 @@ links = soup.select('a[href*="google.com"]')
 ## Conclusion
 XPath is a powerful query language that can be used to select elements in an XML or HTML document. Python provides several libraries that support XPath queries, making it easy to extract data from webpages and XML documents.
 
-## Credits
+### Thank you for your support!
+- If you appreciate my work, please consider [becoming a 'Sponsor'](https://github.com/sponsors/volkansah), giving a :star: to my projects, or following me. 
+### Credits
 - [VolkanSah on Github](https://github.com/volkansah)
 - [Developer Site](https://volkansah.github.io)
-- [Become a 'Sponsor'](https://github.com/sponsors/volkansah)
+
+### License
+This project is licensed under the MIT - see the [LICENSE](LICENSE) file for details.
